@@ -1,0 +1,10 @@
+
+*.py~
+
+.pydevproject
+
+.project
+
+*.prefs
+
+*.pyc
