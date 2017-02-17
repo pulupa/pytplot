@@ -1,14 +1,10 @@
 
+.settings/org.eclipse.core.resources.prefs
+
 *.py~
-
-.pydevproject
-
-.project
-
-*.prefs
 
 *.pyc
 
-examples/scratch.py
-
 examples/test_mplspeed.py
+
+examples/scratch.py
